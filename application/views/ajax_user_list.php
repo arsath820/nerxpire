@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
 </head>
 <body>
+    <h2>User List</h2>
 <div class="container mt-5">
     <h1 class="text-center">Students Bio Data (AJAX)</h1>
     <button class="btn btn-primary mb-3" id="addBtn">Add New Student</button>
