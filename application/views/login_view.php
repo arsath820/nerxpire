@@ -7,7 +7,7 @@
 </head>
 <body class="bg-light">
     <div class="container mt-5">
-        <h2 class="text-center">Login</h2>
+        <h2 class="text-center">Login Form</h2>
 
         <?php if ($this->session->flashdata('message')): ?>
             <div class="alert alert-<?= $this->session->flashdata('msg_type'); ?>">
